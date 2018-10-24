@@ -26,7 +26,6 @@ set statusline=(%{getcwd()}/%f)\ (line\ %l\/%L,\ col\ %c)
 
 let python_highlight_all = 1
 
-" Indentation settings for using 4 spaces instead of tabs.
 set shiftwidth=4
 set softtabstop=4
 set expandtab
